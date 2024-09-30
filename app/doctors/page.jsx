@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className=''>
+    <div className='pt-[3vh]'>
       Doctors not here
     </div>
   )

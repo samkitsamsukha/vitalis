@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="h-screen bg-blue-50">
+    <div className="t-[3vh] h-screen bg-blue-50">
       home
     </div>
   );
