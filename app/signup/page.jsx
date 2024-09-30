@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from 'react';
-import { signUpWithEmailPassword, signUpWithGoogle } from 'C:/Coding/Vitalis/vitalis/firebaseConfig.js'; // Import firebase functions
+import { signUpWithEmailPassword, signUpWithGoogle } from '../../firebaseConfig'
 
 const Signup = () => {
   const [name, setName] = useState('');
